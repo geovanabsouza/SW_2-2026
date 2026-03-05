@@ -2,11 +2,12 @@
     echo "EXERCÍCIO 6:";
     echo '<hr>';
 
-    $num = 1;
-    $anterior = $num - 1;
+    $num = 0;
 
-    for ($num == 1; $num <= 50;$num++) {
-        $conta = $num + $anterior;
-        echo $conta;
-        echo "<br>";
+    for ($i = 1; $i <= 50; $i ++) {
+        $num += $i;
     }
+
+    echo "Resultado: " . $num . ".";
+?>
+
