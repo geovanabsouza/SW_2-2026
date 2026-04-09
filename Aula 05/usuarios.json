@@ -1,0 +1,7 @@
+{
+    "usuarios": [
+        {"nome": "Geovana","email": "geovanabsouza08@gmail.com","id": 1},
+        {"nome": "Ana Beatriz","email": "anabti@gmail.com","id": 2},
+        {"nome": "Mayara","email": "mayarasantoli@gmail.com","id": 3}
+    ]
+}
