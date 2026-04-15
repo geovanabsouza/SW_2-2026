@@ -1,0 +1,29 @@
+{
+    "Usuários:" : [
+        {
+            "id" : 1,
+            "nome" : "Geovana de Brito Souza",
+            "email" : "geovanabsouza@gmail.com"
+        },
+
+        {
+            "id" : 2,
+            "nome" : "Brenda Vezzaro do Nascimento",
+            "email" : "brendavezzaro@gmail.com"
+        },
+
+        {
+            "id" : 3,
+            "nome" : "Ana Paula de Araújo Vasconcellos",
+            "email" : "anavasconcellos@gmail.com"
+        }
+    ]
+
+}
+     
+        
+    
+
+   
+
+    
